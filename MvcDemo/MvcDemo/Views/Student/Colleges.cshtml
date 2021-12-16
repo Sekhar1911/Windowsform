@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "College Details";
+}
+
+<h2>College Details</h2>
+<ul>
+    @foreach (string college in ViewBag.College)
+    {
+        <li>
+            @college
+        </li>
+    }
+</ul>

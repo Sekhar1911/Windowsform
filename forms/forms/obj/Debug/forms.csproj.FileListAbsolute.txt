@@ -1,0 +1,1 @@
+E:\c#.net\forms\forms\bin\Debug\forms.exe.config

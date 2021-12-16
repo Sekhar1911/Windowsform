@@ -1,0 +1,6 @@
+E:\c#.net\converting\converting\bin\Debug\converting.exe.config
+E:\c#.net\converting\converting\bin\Debug\converting.exe
+E:\c#.net\converting\converting\bin\Debug\converting.pdb
+E:\c#.net\converting\converting\obj\Debug\converting.exe
+E:\c#.net\converting\converting\obj\Debug\converting.pdb
+E:\c#.net\converting\converting\obj\Debug\converting.csprojResolveAssemblyReference.cache

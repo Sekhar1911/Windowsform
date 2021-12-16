@@ -1,0 +1,12 @@
+E:\c#.net\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\c#.net\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\c#.net\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\c#.net\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\c#.net\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\c#.net\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\c#.net\Calculator\Calculator\bin\Debug\mscorlib.dll
+E:\c#.net\Calculator\Calculator\bin\Debug\normidna.nlp
+E:\c#.net\Calculator\Calculator\bin\Debug\normnfc.nlp
+E:\c#.net\Calculator\Calculator\bin\Debug\normnfd.nlp
+E:\c#.net\Calculator\Calculator\bin\Debug\normnfkc.nlp
+E:\c#.net\Calculator\Calculator\bin\Debug\normnfkd.nlp

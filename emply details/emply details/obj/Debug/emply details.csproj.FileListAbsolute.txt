@@ -1,0 +1,2 @@
+E:\c#.net\emply details\emply details\bin\Debug\emply details.exe.config
+E:\c#.net\emply details\emply details\obj\Debug\emply details.csprojResolveAssemblyReference.cache

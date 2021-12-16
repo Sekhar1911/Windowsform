@@ -1,0 +1,2 @@
+E:\c#.net\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+E:\c#.net\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache

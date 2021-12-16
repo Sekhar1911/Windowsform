@@ -1,0 +1,6 @@
+E:\c#.net\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+E:\c#.net\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+E:\c#.net\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+E:\c#.net\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+E:\c#.net\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+E:\c#.net\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
